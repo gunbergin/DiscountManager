@@ -1,0 +1,17 @@
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\bin\Debug\net5.0\Template.Infrastructure.deps.json
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\bin\Debug\net5.0\Template.Infrastructure.dll
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\bin\Debug\net5.0\ref\Template.Infrastructure.dll
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\bin\Debug\net5.0\Template.Infrastructure.pdb
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\bin\Debug\net5.0\Template.Application.dll
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\bin\Debug\net5.0\Template.Domain.dll
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\bin\Debug\net5.0\Template.Application.pdb
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\bin\Debug\net5.0\Template.Domain.pdb
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\obj\Debug\net5.0\Template.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\obj\Debug\net5.0\Template.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\obj\Debug\net5.0\Template.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\obj\Debug\net5.0\Template.Infrastructure.AssemblyInfo.cs
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\obj\Debug\net5.0\Template.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\obj\Debug\net5.0\Template.Infrastructure.csproj.CopyComplete
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\obj\Debug\net5.0\Template.Infrastructure.dll
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\obj\Debug\net5.0\ref\Template.Infrastructure.dll
+C:\Users\pro2921\source\repos\Template\Template.Infrastructure\obj\Debug\net5.0\Template.Infrastructure.pdb
